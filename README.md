@@ -17,7 +17,9 @@ My name is Amir Najafi and I'm a front-end web developer.
 <a href="https://www.instagram.com/am1_1rr">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
+<a href="https://t.me/amrfst">
+ <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+</a>
 ---
 
 🧰 Toolbox
