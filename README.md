@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://badges.pufler.dev/visits/amrn1991/amrn1991" />
   <img src="https://badges.pufler.dev/repos/amrn1991" />
-  <img src="https://badges.pufler.dev/commits/monthly/amrn1991" />
+<!--   <img src="https://badges.pufler.dev/commits/monthly/amrn1991" /> -->
+  <img src="https://img.shields.io/github/commit-activity/m/amrn1991/amrn1991?style=plastic" />
 </p>
 
 ### Hi there 👋
