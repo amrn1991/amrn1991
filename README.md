@@ -7,13 +7,13 @@
 
 ### Hi there 👋
 
-My name is Amir Najafi and I'm a front-end web developer.
+My name is Amir Najafi and I'm a full-stack web developer.
 
 - 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently developing MERN Stack apps
 - 📫 How to reach me: 
 <a href="mailto: amrfst91@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:amrfst91@gmail.com"/>
 </a>
 <a href="https://t.me/amrfst">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
