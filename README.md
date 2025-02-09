@@ -49,9 +49,3 @@ My name is Amir Najafi and I'm a full-stack web developer.
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /></span>
 
 ---
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/amrn1991/amrn1991/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
