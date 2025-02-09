@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://badges.pufler.dev/visits/amrn1991/amrn1991" />
   <img src="https://badges.pufler.dev/repos/amrn1991" />
-<!--   <img src="https://badges.pufler.dev/commits/monthly/amrn1991" /> -->
   <img src="https://img.shields.io/github/commit-activity/m/amrn1991/amrn1991" />
 </p>
 
@@ -11,19 +10,6 @@ My name is Amir Najafi and I'm a full-stack web developer.
 
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently developing MERN Stack apps
-- 📫 How to reach me: 
-<a href="mailto: amrfst91@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:amrfst91@gmail.com"/>
-</a>
-<a href="https://t.me/amrfst">
- <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/am1_1rr">
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://ir.linkedin.com/in/amirnajafidev">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-</a>
 
 ---
 
@@ -38,14 +24,13 @@ My name is Amir Najafi and I'm a full-stack web developer.
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /></span>
 
 ---
