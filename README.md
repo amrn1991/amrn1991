@@ -31,6 +31,4 @@ My name is Amir Najafi and I'm a MERN stack web developer.
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /></span>
 
 ---
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrn1991)](https://github.com/amrn1991/github-readme-stats)]
-</p>
+<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrn1991)](https://github.com/amrn1991/github-readme-stats)</div>
