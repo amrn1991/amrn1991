@@ -32,5 +32,5 @@ My name is Amir Najafi and I'm a MERN stack web developer.
 
 ---
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrn1991)](https://github.com/amrn1991/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrn1991)](https://github.com/amrn1991/github-readme-stats)]
 </p>
