@@ -5,10 +5,10 @@
 
 ### Hi there 👋
 
-My name is Amir Najafi and I'm a MERN stack web developer.
+I'm a MERN stack web developer mainly focusing on building web apps using latest technologies such as Nextjs.
 
 - 🔭 I’m currently working on LLMs and langchain for building ai assistants!
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# & .Net core
 
 ---
 
