@@ -22,7 +22,7 @@ My name is Amir Najafi and I'm a MERN stack web developer.
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Next_JS?style=for-the-badge&logo=nextdotjs&logoColor=black&color=aaa" />
+<img src="https://img.shields.io/badge/Next.js-0082C9?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
