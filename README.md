@@ -7,10 +7,13 @@
 
 I'm a **MERN stack** web developer mainly focusing on building web apps using latest technologies such as Nextjs.
 
-<img align="right" width="300" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif.gif"><br>
-- 🔭 I’m currently working on **LLMs and langchain** for building ai assistants!<br>
-- 🌱 I’m currently learning **C#** & **.Net core**<br>
+<img align="right" width="280" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif.gif"><br>
+- 🔭 I’m currently working on **LLMs and langchain** for building ai assistants!
+
+- 🌱 I’m currently learning **C#** & **.Net core**
+
 - ⚡ Fun fact: I am a *Cat Lover* <br><br><br>
+
 
 ---
 
