@@ -7,14 +7,16 @@
 
 I'm a MERN stack web developer mainly focusing on building web apps using latest technologies such as Nextjs.
 
-- 🔭 I’m currently working on LLMs and langchain for building ai assistants!
-- 🌱 I’m currently learning C# & .Net core
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif.gif"><br>
+- 🔭 I’m currently working on **LLMs and langchain** for building ai assistants!<br>
+- 🌱 I’m currently learning **C#** & **.Net core**<br>
+- ⚡ Fun fact: I am a *Cat Lover* <br>
 ---
 
-🧰 Toolbox
+# 🧰 Toolbox
 
-<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
@@ -28,7 +30,8 @@ I'm a MERN stack web developer mainly focusing on building web apps using latest
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /></span>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+</p>
 
 ---
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrn1991" /></div>
