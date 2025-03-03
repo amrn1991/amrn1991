@@ -43,4 +43,9 @@ I'm a **MERN stack** web developer mainly focusing on building web apps using la
 </p>
 
 ---
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=amrn1991&theme=radical&no-frame=false&no-bg=true&margin-w=8)
+
+---
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrn1991&theme=nightowl" /></div>
