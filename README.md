@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-<img align="right" width="280" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif.gif"><br>
+
 I'm a **MERN stack** web developer mainly focusing on building web apps using latest technologies such as Nextjs.
 
 - 🔭 I’m currently working on **LLMs and langchain** for building ai assistants!
